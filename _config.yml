@@ -1,0 +1,28 @@
+name: Eventik
+favicon: null
+layout_spectrum: 0.8046012674458325
+typography_spectrum: 0.5516496691852808
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2642598303500563
+  lightness: 0.8253015556838363
+  saturation: 0.5405628483276814
+  rhythmicContrast: 0.84390331315808
+purpose: []
